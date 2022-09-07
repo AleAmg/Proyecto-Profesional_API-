@@ -1,6 +1,6 @@
 # adFlower (2022)
 
-Back-end del proyecto realizado con una empresa en el coding bootcamp de Plataforma 5.
+Back-end del proyecto realizado con una empresa en el coding bootcamp de Plataforma 5 de forma grupal (5 personas).
 La cual trata de una aplicación donde se pueden crear campañas publicitarias para que influencers las publiciten y ganen dinero.
 
 - Link to Front-end: https://github.com/AleAmg/Proyecto-Profesional_WEB
